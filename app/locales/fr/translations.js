@@ -5,20 +5,20 @@ const result = {
   "assemblies": {
     "buttons": {
       "install": "Installer",
-      "options": "Option"
+      "options": "Options"
     },
     "search_by": {
-      "assemblies": "Champions",
-      "libraries": "Libraires",
+      "assemblies": "Assemblies",
+      "libraries": "Librairies",
       "utilities": "Utilitaires"
     },
     "search_phrase": "Recherche d'assemblies",
     "sort_by": {
       "last_update": "Dernière mise à jour",
       "name": "Nom",
-      "rating": "Score"
+      "rating": "Note"
     },
-    "written_by": "Cet assembly est écrite par {author} et la dernière mise à jour était sur {until-now}"
+    "written_by": "Cet assembly est écrite par {author} et la dernière mise à jour était à {until-now}"
   },
   "layout": {
     "logout": "Déconnexion",
@@ -35,12 +35,12 @@ const result = {
   "profiles": {
     "set": {
       "root": {
-        "create": "Créez un nouveau jeu",
+        "create": "Créer un nouveau profil",
         "default": "Profil par défaut {index}",
-        "title": "Mes jeux"
+        "title": "Mes profils"
       },
       "entry": {
-        "author": "Écrivain de l'Assembly",
+        "author": "Auteur de l'Assembly",
         "name": "Nom de l'Assembly",
         "version": "Version de l'Assembly"
       }
