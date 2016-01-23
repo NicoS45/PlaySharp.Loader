@@ -23,7 +23,7 @@ const result = {
   "layout": {
     "logout": "Déconnexion",
     "navigation": {
-      "applog": "Log application",
+      "applog": "Journal des logs",
       "assemblies": "Assemblies",
       "changelog": "Changelog",
       "news": "Actualités",
