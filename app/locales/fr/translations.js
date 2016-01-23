@@ -12,13 +12,13 @@ const result = {
       "libraries": "Librairies",
       "utilities": "Utilitaires"
     },
-    "search_phrase": "Recherche d'assemblies",
+    "search_phrase": "Rechercher une assembly",
     "sort_by": {
       "last_update": "Dernière mise à jour",
       "name": "Nom",
       "rating": "Note"
     },
-    "written_by": "Cet assembly a été créée par {author} et la dernière mise à jour était à {until-now}"
+    "written_by": "Cette assembly a été créée par {author} et la dernière mise à jour était à {until-now}"
   },
   "layout": {
     "logout": "Déconnexion",
