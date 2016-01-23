@@ -18,7 +18,7 @@ const result = {
       "name": "Nom",
       "rating": "Note"
     },
-    "written_by": "Cette assembly a été créée par {author}, dernière mise à jour{until-now}"
+    "written_by": "Cette assembly a été créée par {author}, dernière mise à jour {until-now}"
   },
   "layout": {
     "logout": "Déconnexion",
